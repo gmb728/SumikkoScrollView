@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DD48EC72222E15D300EB5C89 /* Sumi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sumi.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD48EC72222E15D300EB5C89 /* SumikkoScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SumikkoScrollView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD48EC75222E15D300EB5C89 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD48EC77222E15D300EB5C89 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DD48EC7A222E15D300EB5C89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		DD48EC73222E15D300EB5C89 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DD48EC72222E15D300EB5C89 /* Sumi.app */,
+				DD48EC72222E15D300EB5C89 /* SumikkoScrollView.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DD48EC71222E15D300EB5C89 /* Sumi */ = {
+		DD48EC71222E15D300EB5C89 /* SumikkoScrollView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DD48EC84222E15D500EB5C89 /* Build configuration list for PBXNativeTarget "Sumi" */;
+			buildConfigurationList = DD48EC84222E15D500EB5C89 /* Build configuration list for PBXNativeTarget "SumikkoScrollView" */;
 			buildPhases = (
 				DD48EC6E222E15D300EB5C89 /* Sources */,
 				DD48EC6F222E15D300EB5C89 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = Sumi;
+			name = SumikkoScrollView;
 			productName = Sumi;
-			productReference = DD48EC72222E15D300EB5C89 /* Sumi.app */;
+			productReference = DD48EC72222E15D300EB5C89 /* SumikkoScrollView.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DD48EC6D222E15D300EB5C89 /* Build configuration list for PBXProject "Sumi" */;
+			buildConfigurationList = DD48EC6D222E15D300EB5C89 /* Build configuration list for PBXProject "SumikkoScrollView" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DD48EC71222E15D300EB5C89 /* Sumi */,
+				DD48EC71222E15D300EB5C89 /* SumikkoScrollView */,
 			);
 		};
 /* End PBXProject section */
@@ -289,7 +289,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.gmb728.Sumi;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gmb728.SumikkoScrollView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -307,7 +307,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.gmb728.Sumi;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gmb728.SumikkoScrollView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DD48EC6D222E15D300EB5C89 /* Build configuration list for PBXProject "Sumi" */ = {
+		DD48EC6D222E15D300EB5C89 /* Build configuration list for PBXProject "SumikkoScrollView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DD48EC82222E15D500EB5C89 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DD48EC84222E15D500EB5C89 /* Build configuration list for PBXNativeTarget "Sumi" */ = {
+		DD48EC84222E15D500EB5C89 /* Build configuration list for PBXNativeTarget "SumikkoScrollView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DD48EC85222E15D500EB5C89 /* Debug */,
